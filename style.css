@@ -1,0 +1,35 @@
+/*
+Theme Name:     UWM Web ID - SARUP
+Theme URI:      
+Description:    
+Author:         
+Author URI:     
+Template:       uwmwebid
+Version:        0.1
+*/
+/* Please customize the above child theme template header to reflect your organization. */
+/* IMPORTANT: The value of Template must remain "uwmwebid". */
+
+/* IMPORTANT: Please do not remove this line. It is required by the UWM Web Identity parent theme. */
+@import url("../uwmwebid/style.css");
+
+/* Ok! Child theme customization starts below this line. */
+
+
+
+@media (max-width: 999px) {
+}
+
+@media (max-width: 767px) {   
+}
+
+@media (max-width: 643px) {
+}
+
+@media (max-width: 600px) {
+}
+
+/* Mobile devices */
+@media (max-width: 359px) {
+}
+
